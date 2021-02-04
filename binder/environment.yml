@@ -1,0 +1,15 @@
+name: bsignals
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipywidgets
+  - jupyterlab
+  - matplotlib-base
+  - nodejs
+  - pip
+  - pillow
+  - python = 3.7
+  - scipy = 1.6
+  - pandas
+  - seaborn = 0.11.1 
